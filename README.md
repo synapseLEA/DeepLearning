@@ -1,5 +1,5 @@
 
-![Logo](images/logo_horizontal.png)
+![Logo](imagens/logo_horizontal.png)
 
 # 🚀 Introdução ao Deep Learning
 
